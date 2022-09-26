@@ -1,0 +1,33 @@
+*{ 
+    background-image: url(http://s2.glbimg.com/LyKGJ9s-froPnacTiIVG21dkS00=/e.glbimg.com/og/ed/f/original/2017/05/17/hacker-2002907_1280.jpg);
+    background-size: cover; 
+    background-color: black ;
+
+     color: rgb(0, 255, 76);
+
+     text-shadow: 3px 3px 3px rgb(121, 167, 14);}
+    
+
+h1,h2{
+    text-align: center;
+}
+
+.imagem{
+    display:flex ;
+    align-items:center ;  
+    justify-content: center;
+} 
+
+
+.countainer { 
+    width: 1000px; 
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+a{
+  
+    display: flex;
+    align-items:center;
+    justify-content:center;
+}
